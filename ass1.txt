@@ -1,0 +1,8 @@
+1. col-lg-6  
+    1. The divs becomes side by side only after 1200px so for most screen sizes the items are veritcally aligned
+2. col-sm-6 
+    1. The divs become side by side as early as 600px and can look crumped when it does.
+
+The original
+col-md-6
+    1. The divs become side by side at 720px and looks decent for the small screens and big screens as the items don’t looks squished.
